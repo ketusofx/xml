@@ -1,21 +1,159 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<channel>
-<item>
-  <title>[COLOR red]CANALES[/COLOR] [COLOR orange]MIX[/COLOR]</title>
-                <thumbnail>http://liveonsat.com/images/LJ_banner_main_FLAG.jpg</thumbnail>
-                <fanart>http://wallnoy.com/wp-content/uploads/2014/10/4k_abstract_wallpaper_6.jpg</fanart>
-                <url>.</url>
-<externallink>http://217.219.143.108/S1746/</externallink>  
-</item>
-</channel>
 
-  <channel>
-  <item>
-    <name>CANTINFLAS</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<url>http://ignoreme</url>
-<externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Cantinflas.m3u</externallink>
-  </item>
-  
-</channel>
+<item>
+    <title>[COLOR red]MI PELICULA DE HOY[/COLOR]</title>
+    <link>http://Ignoreme</link>
+	<thumbnail>http://i.imgur.com/xu57ulK.png</thumbnail>
+	<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+    <externallink>http://pastebin.com/raw/nnvyqaR8</externallink>	
+    </item>
+	
+    <item>
+    <title>[COLOR red]INFANTILES[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://pastebin.com/raw/c48cet3F</externallink>
+	<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/canales-infantiles.jpg</thumbnail>
+	<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+    </item> 
+	
+	<item>
+    <title>[COLOR red]SERIES INFANTILES[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://pastebin.com/raw/03k4U6z8</externallink>
+	<thumbnail>http://i.imgur.com/7voKiV1.jpg</thumbnail>
+	<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+    </item>
+		
+    <item>
+    <title>[COLOR red]PELICULAS INFANTILES[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://pastebin.com/raw/6iFjcNTj</externallink>
+	<thumbnail>http://i.imgur.com/RfiT087.jpg</thumbnail>
+	<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+    </item>  	
+		
+    <item>
+    <title>[COLOR red]DEPORTES[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://googledrive.com/host/0B7s3iHobrWwGZlplM3czbXBiQWs/DEPORTESSAB.xml</externallink> 
+	<thumbnail>http://i.imgur.com/ICJ9tPt.png</thumbnail>
+	<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+    </item>
+
+    <item>
+    <title>[COLOR red]MOVISTAR PLUS[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://pastebin.com/raw/GmpejEC3</externallink>
+    <thumbnail>http://i.imgur.com/5sTg3yD.jpg</thumbnail>
+	<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+    </item>	    
+    
+    <item>
+    <title>[COLOR red]TDT[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://pastebin.com/raw/z3ZZf8UC</externallink>
+	<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/la_tdt10.jpg</thumbnail>
+	<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+    </item>
+	
+	<item>
+    <title>[COLOR red]LA ALTERNATIVA[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://pastebin.com/raw/11rkAcDA</externallink>
+	<thumbnail>http://i.imgur.com/hO1VJo9.jpg</thumbnail>
+	<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+    </item>
+	
+<item>
+<title>[COLOR red]CANALES DE CINESTRENOS TV[/COLOR] [COLOR blue](SportsDevil)[/COLOR]</title>
+<thumbnail>http://i.imgur.com/Ks5htzb.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<sportsdevil>http://cinestrenostv.tv[makelist.param1]</sportsdevil>
+<referer></referer>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>a href="(.*)".*title="(.*?)".*?src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR red]KODILIVE[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[makelist.param1]</title>
+	<link>[makelist.param2]</link>
+	<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:-1.*,(.*?)\n(.*)</expres>
+<page>http://kodilive.eu/tv/</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://i.imgur.com/ZGEc4WQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/5Up4jOE.jpg
+</item>
+	
+	<item>
+    <title>[COLOR red]TV FRANCE[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://pastebin.com/raw/x3x14p9e</externallink>
+	<thumbnail>http://i.imgur.com/oQq8SOe.jpg</thumbnail>
+	<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+    </item>
+	
+	<item>
+    <title>[COLOR red]TV DE CATALUNYA[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://pastebin.com/raw/qFcqxRwG</externallink>
+	<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/1262702256945.jpg</thumbnail>
+	<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+    </item>
+		    
+    <item>
+    <title>[COLOR red]TV URUGUAY[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://pastebin.com/raw/bG76nHmg</externallink> 
+	<thumbnail>http://i.imgur.com/9wJ6pLG.jpg</thumbnail>
+	<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+    </item>
+	
+		    
+    <item>
+    <title>[COLOR red]MUSICA[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://pastebin.com/raw/ytWFwpDH</externallink>
+	<thumbnail>http://i.imgur.com/3FxpWmy.png</thumbnail>
+	<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+    </item>
+    
+	<item>
+    <title>[COLOR red]RADIO[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://pastebin.com/raw/p9b6QNU9</externallink>
+	<thumbnail>http://i.imgur.com/mkMqBJt.png</thumbnail>
+	<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+    </item>	
+	
+	<item>
+    <title>[COLOR red]DOCUMENTALES[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://pastebin.com/raw/J6dt3ynz</externallink>
+	<thumbnail>http://i39.servimg.com/u/f39/13/21/23/51/url10.jpg</thumbnail>
+	<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+    </item>
+		
+	<item>
+    <title>[COLOR magenta]SUPER LISTAS[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>http://pastebin.com/raw/CpTDfuVc</externallink>
+	<thumbnail>http://i.imgur.com/bZO05zt.jpg</thumbnail>
+	<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+    </item>
