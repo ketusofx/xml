@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
+<channel>
 <item>
   <title>[COLOR red]CANALES[/COLOR] [COLOR orange]MIX[/COLOR]</title>
                 <thumbnail>http://liveonsat.com/images/LJ_banner_main_FLAG.jpg</thumbnail>
@@ -7,3 +7,15 @@
                 <url>.</url>
 <externallink>http://217.219.143.108/S1746/</externallink>  
 </item>
+
+
+  
+  <item>
+    <name>CANTINFLAS</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<url>http://ignoreme</url>
+<externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Cantinflas.m3u</externallink>
+  </item>
+  
+</channel>
