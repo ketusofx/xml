@@ -4,15 +4,6 @@
 
  
 <channels>
-  <channels_info> 
-<title>TV</title>
-<genre>tv</genre>
-<description>listas m3u de peliculas y canales</description>
-<thumbnail>http://i.imgur.com/HufvHuO.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-<date>2016</date>
-<credits>© Ketusofx</credits>
-</channels_info>
 
 <channel>
   <name>PELICULAS</name>
