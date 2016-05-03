@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>Discovery Max</title>         
+<link>http://cdn.sstream.pw/live/dismax_9c7n25t/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail>http://i.imgur.com/ST0nJb2.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</item> 
+ 
+<item>
+<title>Discovery Channel</title>
+<sportsdevil>http://verdirectotv.com/tv/documentales/discovery.html</sportsdevil>
+<referer>http://verdirectotv.com</referer>
+<thumbnail>http://i.imgur.com/VEXxOky.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item>
+
+<item>
+<title>National Geography</title>         
+<link>http://cdn.sstream.pw/live/national_alwka53/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail>http://i.imgur.com/Co57iED.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</item>
+       
+<tem>
+<title>Nat Geo Will</title>
+<link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
+ 
+<regex>
+<name>get-m3u8-decoded</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
+<page></page>
+</regex>
+ 
+<regex>
+<name>get-m3u8-encoded</name>
+<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
+<page>$doregex[get-embed4]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+ 
+<regex>
+<name>get-embed4</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-embed3]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+ 
+<regex>
+<name>get-embed3</name>
+<expres>script type="text\/javascript" src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/canales/emision1/natgeowill.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<thumbnail>http://i.imgur.com/q0BzvNo.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item>
+ 
+<item>
+<title>Historia</title>
+<sportsdevil>http://verdirectotv.com/tv/documentales2/historia.html</sportsdevil>
+<referer>http://verdirectotv.com</referer>
+<thumbnail>http://i.imgur.com/wOSLXuF.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item>    
+           
+<tem>
+<title>A and E</title>
+<link>rtmp://31.220.0.187/privatestream/ playpath=aande25?keys=jiH3m9uxPA2FhTqpPeUjLw&keyt=1448246240 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
+<thumbnail>http://i.imgur.com/4q7xd8N.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item>
+
+<item>
+<title>Canal Cocina</title>         
+<link>http://cdn.sstream.pw/live/cocina_am9cifh/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail>http://i.imgur.com/sJFRAiz.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</item>  
+           
+<tem>
+<title>Decasa tv</title>
+<link>rtmp://31.220.0.155/privatestream/ playpath=decasa12?keys=TPwqJlqH7xBOxQFgjPghLw&keyt=1448248518 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
+<thumbnail>http://i.imgur.com/Wz8ag28.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item>  
+         
+<tem>
+<title>Viajar</title>
+<thumbnail>http://i.imgur.com/XdbNaeI.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1286.m3u8</link>
+</item>
+
+<item>
+<title>Caza y Pesca</title>         
+<link>http://cdn.sstream.pw/live/caza_aulqd78/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail>http://i.imgur.com/fP0g5ld.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</item>
+
+<item>
+<title>Constriur TV</title>
+<link>http://iphone-streaming.ustream.tv/uhls/9143107/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/gsd9AnF.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item>
+ 
+<tem>
+<title>Iberalia</title>
+<link>rtmp://31.220.40.60/privatestream/ playpath=iberalia65?keys=gz490nDBAqgC8FJ60ndyhQ&keyt=1448248960 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item>
