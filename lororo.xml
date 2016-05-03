@@ -203,5 +203,12 @@
     </item>
   </items>
 </channel>
+<channel>
+	<name>xxx</name>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	<link>https://raw.githubusercontent.com/ketusofx/m3u/master/new%201.m3u</link>
+	<externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/new%201.m3u</externallink>
+</channel>
 
 </channels>
