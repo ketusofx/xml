@@ -103,8 +103,14 @@
 	<name>xxx</name>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
-	<link>https://raw.githubusercontent.com/ketusofx/xml/master/tiny4k1.xml</link>
-	<externallink>https://raw.githubusercontent.com/ketusofx/xml/master/tiny4k1.xml</externallink>
+	<items>
+		<item>
+			<title>tiny4k</title>
+			<link></link>
+			<thumbnail>http://i.imgur.com/7Ne5mnz.png</thumbnail>
+			<externallink>https://raw.githubusercontent.com/ketusofx/xml/master/tiny4k1.xml</externallink>
+		</item>
+	</items>
 </channel>
 
 </channels>
