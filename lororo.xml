@@ -100,15 +100,15 @@
   </items>
 </channel>
 <channel>
-	<name>xxx</name>
+	<name>ADULTOS</name>
 	<thumbnail>http://i.imgur.com/7Ne5mnz.png</thumbnail>
 	<fanart></fanart>
 	<items>
 		<item>
-			<title>tiny4k</title>
-			<link></link>
-			<thumbnail>http://i.imgur.com/7Ne5mnz.png</thumbnail>
-			<externallink>https://raw.githubusercontent.com/ketusofx/xml/master/tiny4k1.xml</externallink>
+		<title>tiny4k</title>
+		<link>https://raw.githubusercontent.com/ketusofx/xml/master/tiny4k1.xml</link>
+		<thumbnail>http://i.imgur.com/7Ne5mnz.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/ketusofx/xml/master/tiny4k1.xml</externallink>
 		</item>
 	</items>
 </channel>
