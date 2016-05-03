@@ -23,26 +23,31 @@
       <title>listado de peliculas</title>
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Listado_Peliculas.m3u</link>
       <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Listado_Peliculas.m3u</externallink>
     </item>
     <item>
       <title>cantinflas</title>
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Cantinflas.m3u</link>
       <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Cantinflas.m3u</externallink>
     </item>
     <item>
       <title>estrenos 2016</title>
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Estrenos%202016.m3u</link>
       <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Estrenos%202016.m3u</externallink>
     </item>
     <item>
       <title>peliculas estrenos</title>
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Peliculas-Estrenos.m3u</link>
       <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Peliculas-Estrenos.m3u</externallink>
     </item>
     <item>
       <title>peliculas HD</title>
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/peliculas%20HD%20Miguel.m3u</link>
       <thumbail></thumbail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/peliculas%20HD%20Miguel.m3u</externallink>
     </item>
   </items>
 </channel>
@@ -55,36 +60,43 @@
       <title>super latinos</title>
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/superlatinos%20.m3u</link>
       <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/superlatinos%20.m3u</externallink>
     </item>
     <item>
       <title>calidad HD de total</title>
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/CALIDAD_HD_DE_TOTAL.m3u</link>
       <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/CALIDAD_HD_DE_TOTAL.m3u</externallink>
     </item>
     <item>
       <title>enlaces de tv</title>
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Enlaces%20de%20TV.m3u</link>
       <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Enlaces%20de%20TV.m3u</externallink>
     </item>
     <item>
       <title>total SD</title>
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Premium_Play.m3u</link>
       <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Premium_Play.m3u</externallink>
     </item>
     <item>
       <title>rosadin de fer</title>
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Rosadin%20by%20%20Fer%20TotalPlay%20Stallion%281%29.m3u</link>
       <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Rosadin%20by%20%20Fer%20TotalPlay%20Stallion%281%29.m3u</externallink>
     </item>
     <item>
       <title>smart tv</title>
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Smart_Tv.m3u</link>
       <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Smart_Tv.m3u</externallink>
     </item>
     <item>
       <title>video on demand</title>
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/VIDEO%20ON%20DEMAN.m3u</link>
       <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/VIDEO%20ON%20DEMAN.m3u</externallink>
     </item>
   </items>
 </channel>
