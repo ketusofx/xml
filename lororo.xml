@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+<channels>
+  <channels_info> 
+<title>TV</title>
+<genre>tv</genre>
+<description>los mejores canales de tv</description>
+<thumbnail>http://i.imgur.com/HufvHuO.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+<date>2016</date>
+<credits>© Ketusofx</credits>
+</channels_info>
+  
+<channel>
+  <name>FOX</name>
+  <thumbail>http://latino-webtv.com/iptv/logos/fox.png</thumbail>
+  <fanart>http://pre13.deviantart.net/d4cc/th/pre/i/2015/144/3/7/fox_video_blender_in_hd_by_icepony64-d74t1fr.png</fanart>
+  <items>
+    <item>
+      <title>fox hd</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8</link>
+      <thumbnail>http://latino-webtv.com/iptv/logos/fox.png</thumbnail>
+    </item>
+    <item>
+      <title>fox medio</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8</link>
+      <thumbnail>http://latino-webtv.com/iptv/logos/fox.png</thumbnail>
+    </item>
+    
+<item>
+      <title>fox sport HD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>fox sports 2 HD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>FX HD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>FOX</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>FX</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL258/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	<item>
+      <title>FOX LIFE</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	 <item>
+      <title>FOX 1 HD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	 <item>
+      <title>FOX ACTION HD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	 <item>
+      <title>FOX MOVIES HD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	 <item>
+      <title>FOX CINEMA HD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	 <item>
+      <title>FOX CLASSIC HD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	 <item>
+      <title>FOX CINEMA</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL472/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+	 <item>
+      <title>FOX CLASSIC</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL478/PROFILE05.m3u8</link>
+      <thumbnail></thumbnail>
+    </item>
+    <item>
+      <title>fox hd ruso</title>
+      <link>http://185.46.163.221:4466/FOXHD</link>
+      <thumbnail>http://latino-webtv.com/iptv/logos/fox.png</thumbnail>
+    </item>
+  </items>
+</channel>
+<channel>
+  <name>HISTORY</name>
+  <thumbnail>http://latino-webtv.com/iptv/logos/history%20hd.png</thumbnail>
+  <fanart>http://vignette4.wikia.nocookie.net/logopedia/images/d/d6/History_Channel_2015_logo.jpg/revision/latest?cb=20150531212611</fanart>
+  <items>
+    <item>
+      <title>history HD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8</link>
+      <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUAsnHAy_0hi3Yy3cobZbNycaNm2WEXucDHF9V44QGcEr67gLC_A</thumbnail>
+    </item>
+    <item>
+      <title>history SD</title>
+      <link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8</link>
+      <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqF2-cC27iwOLvXwswhX9f4XOcbCTdP2cUGz6rnzQD_gUgYZwqz3UcmroFyQ</thumbnail>
+    </item>
+  </items>
+  
+<channel>
+  <name>PELICULAS</name>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <items>
+    <item>
+      <title>listado de peliculas</title>
+      <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Listado_Peliculas.m3u</link>
+      <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Listado_Peliculas.m3u</externallink>
+    </item>
+    <item>
+      <title>cantinflas</title>
+      <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Cantinflas.m3u</link>
+      <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Cantinflas.m3u</externallink>
+    </item>
+    <item>
+      <title>estrenos 2016</title>
+      <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Estrenos%202016.m3u</link>
+      <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Estrenos%202016.m3u</externallink>
+    </item>
+    <item>
+      <title>peliculas estrenos</title>
+      <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Peliculas-Estrenos.m3u</link>
+      <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Peliculas-Estrenos.m3u</externallink>
+    </item>
+    <item>
+      <title>peliculas HD</title>
+      <link>https://raw.githubusercontent.com/ketusofx/m3u/master/peliculas%20HD%20Miguel.m3u</link>
+      <thumbail></thumbail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/peliculas%20HD%20Miguel.m3u</externallink>
+    </item>
+  </items>
+</channel>
+<channel>
+  <name>CANALES DE TV</name>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+  <items>
+    <item>
+      <title>super latinos</title>
+      <link>https://raw.githubusercontent.com/ketusofx/m3u/master/superlatinos%20.m3u</link>
+      <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/superlatinos%20.m3u</externallink>
+    </item>
+    <item>
+      <title>calidad HD de total</title>
+      <link>https://raw.githubusercontent.com/ketusofx/m3u/master/CALIDAD_HD_DE_TOTAL.m3u</link>
+      <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/CALIDAD_HD_DE_TOTAL.m3u</externallink>
+    </item>
+    <item>
+      <title>enlaces de tv</title>
+      <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Enlaces%20de%20TV.m3u</link>
+      <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Enlaces%20de%20TV.m3u</externallink>
+    </item>
+    <item>
+      <title>total SD</title>
+      <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Premium_Play.m3u</link>
+      <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Premium_Play.m3u</externallink>
+    </item>
+    <item>
+      <title>rosadin de fer</title>
+      <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Rosadin%20by%20%20Fer%20TotalPlay%20Stallion%281%29.m3u</link>
+      <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Rosadin%20by%20%20Fer%20TotalPlay%20Stallion%281%29.m3u</externallink>
+    </item>
+    <item>
+      <title>smart tv</title>
+      <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Smart_Tv.m3u</link>
+      <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Smart_Tv.m3u</externallink>
+    </item>
+    <item>
+      <title>video on demand</title>
+      <link>https://raw.githubusercontent.com/ketusofx/m3u/master/VIDEO%20ON%20DEMAN.m3u</link>
+      <thumbnail></thumbnail>
+      <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/VIDEO%20ON%20DEMAN.m3u</externallink>
+    </item>
+  </items>
+</channel>
+
+</channels>
