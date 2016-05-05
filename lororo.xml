@@ -55,6 +55,12 @@
   <thumbnail></thumbnail>
   <fanart></fanart>
   <items>
+  	<item>
+  		<title>tecno TV</title>
+  		<link>http://tv.tecnotv.net/hd.m3u</link>
+  		<thumbnail></thumbnail>
+  		<externallink>http://tv.tecnotv.net/hd.m3u</externallink>
+  	</item>
     <item>
       <title>super latinos</title>
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/superlatinos%20.m3u</link>
