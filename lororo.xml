@@ -61,6 +61,12 @@
   		<thumbnail></thumbnail>
   		<externallink>http://tv.tecnotv.net/hd.m3u</externallink>
   	</item>
+  	<item>
+  		<title>MONSTER</title>
+  		<link>https://raw.githubusercontent.com/ketusofx/m3u/master/tv_channels_iptvmonster.m3u</link>
+  		<thumbnail></thumbnail>
+  		<externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/tv_channels_iptvmonster.m3u</externallink>
+  	</item>
     <item>
       <title>super latinos</title>
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/superlatinos%20.m3u</link>
