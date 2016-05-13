@@ -68,12 +68,12 @@
   		<externallink>http://tv.tecnotv.net/hd.m3u</externallink>
   	</item>
   <item>
-  	<title>
+  	<item>
   		<title>VOD</title>
   		<link>https://dl.dropbox.com/s/bgtmd0yjg51wgb9/vod.m3u</link>
   		<thumbnail></thumbnail>
   		<externallink>https://dl.dropbox.com/s/bgtmd0yjg51wgb9/vod.m3u</externallink>
-  	</title>
+  	</item>
   </item>
   	<item>
   		<title>MONSTER</title>
