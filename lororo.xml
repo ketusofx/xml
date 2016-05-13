@@ -130,14 +130,16 @@
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 	<items>
-		<item>
-			<title>SERIES DE PALCO</title>
-			<url>https://dl.dropbox.com/s/bm76hcp8wrt3erq/byNanoSeries.m3u</url>
-			<thumbnail></thumbnail>
-			<externallink>https://dl.dropbox.com/s/bm76hcp8wrt3erq/byNanoSeries.m3u</externallink>
-		</item>
+		
+	<item>
+	<title>SERIES DE PALCO</title>
+	<url>https://dl.dropbox.com/s/bm76hcp8wrt3erq/byNanoSeries.m3u</url>
+	<thumbnail></thumbnail>
+	<externallink>https://dl.dropbox.com/s/bm76hcp8wrt3erq/byNanoSeries.m3u</externallink>
+	</item>
 	</items>
-	<channel>
+</channel>
+
 <channel>
 	<name>ADULTOS</name>
 	<thumbnail>http://i.imgur.com/7Ne5mnz.png</thumbnail>
