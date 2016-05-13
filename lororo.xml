@@ -48,6 +48,12 @@
       <thumbail></thumbail>
       <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/peliculas%20HD%20Miguel.m3u</externallink>
     </item>
+    <item>
+    	<title>HARRY POTTER 1080P</title>
+    	<link>https://dl.dropbox.com/s/54n4hr37vl6ew8h/HARRY_POTTER.m3u</link>
+    	<thumbnail></thumbnail>
+    	<externallink>https://dl.dropbox.com/s/54n4hr37vl6ew8h/HARRY_POTTER.m3u</externallink>
+    </item>
   </items>
 </channel>
 <channel>
@@ -61,6 +67,14 @@
   		<thumbnail></thumbnail>
   		<externallink>http://tv.tecnotv.net/hd.m3u</externallink>
   	</item>
+  <item>
+  	<title>
+  		<title>VOD</title>
+  		<link>https://dl.dropbox.com/s/bgtmd0yjg51wgb9/vod.m3u</link>
+  		<thumbnail></thumbnail>
+  		<externallink>https://dl.dropbox.com/s/bgtmd0yjg51wgb9/vod.m3u</externallink>
+  	</title>
+  </item>
   	<item>
   		<title>MONSTER</title>
   		<link>https://raw.githubusercontent.com/ketusofx/m3u/master/tv_channels_iptvmonster.m3u</link>
@@ -111,6 +125,19 @@
     </item>
   </items>
 </channel>
+<channel>
+	<name>SERIES</name>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	<items>
+		<item>
+			<title>SERIES DE PALCO</title>
+			<url>https://dl.dropbox.com/s/bm76hcp8wrt3erq/byNanoSeries.m3u</url>
+			<thumbnail></thumbnail>
+			<externallink>https://dl.dropbox.com/s/bm76hcp8wrt3erq/byNanoSeries.m3u</externallink>
+		</item>
+	</items>
+	<channel>
 <channel>
 	<name>ADULTOS</name>
 	<thumbnail>http://i.imgur.com/7Ne5mnz.png</thumbnail>
