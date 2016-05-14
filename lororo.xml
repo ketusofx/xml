@@ -56,9 +56,9 @@
     </item>
     <item>
     	<title>HARRY POTTER 1080P</title>
-    	<link>https://dl.dropbox.com/s/54n4hr37vl6ew8h/HARRY_POTTER.m3u</link>
+    	<link>https://raw.githubusercontent.com/ketusofx/m3u/master/HARRY_POTTER.m3u</link>
     	<thumbnail></thumbnail>
-    	<externallink>https://dl.dropbox.com/s/54n4hr37vl6ew8h/HARRY_POTTER.m3u</externallink>
+    	<externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/HARRY_POTTER.m3u</externallink>
     </item>
   </items>
 </channel>
@@ -76,16 +76,16 @@
   <item>
   	<item>
   		<title>VOD</title>
-  		<link>https://dl.dropbox.com/s/bgtmd0yjg51wgb9/vod.m3u</link>
+  		<link>https://raw.githubusercontent.com/ketusofx/m3u/master/vod.m3u</link>
   		<thumbnail></thumbnail>
-  		<externallink>https://dl.dropbox.com/s/bgtmd0yjg51wgb9/vod.m3u</externallink>
+  		<externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/vod.m3u</externallink>
   	</item>
   </item>
   	<item>
-  		<title>MONSTER</title>
-  		<link>https://raw.githubusercontent.com/ketusofx/m3u/master/tv_channels_iptvmonster.m3u</link>
+  		<title>VAUGAN</title>
+  		<link>https://raw.githubusercontent.com/ketusofx/m3u/master/vaugan.m3u</link>
   		<thumbnail></thumbnail>
-  		<externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/tv_channels_iptvmonster.m3u</externallink>
+  		<externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/vaugan.m3u</externallink>
   	</item>
     <item>
       <title>super latinos</title>
@@ -94,10 +94,22 @@
       <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/superlatinos%20.m3u</externallink>
     </item>
     <item>
+    	<title>PRUEBA 1.0</title>
+    	<link>https://raw.githubusercontent.com/ketusofx/m3u/master/prueba%201.0.m3u</link>
+    	<thumbnail></thumbnail>
+    	<externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/prueba%201.0.m3u</externallink>
+    </item>
+    <item>
       <title>calidad HD de total</title>
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/CALIDAD_HD_DE_TOTAL.m3u</link>
       <thumbnail></thumbnail>
       <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/CALIDAD_HD_DE_TOTAL.m3u</externallink>
+    </item>
+    <item>
+    	<title>ZHERONEW</title>
+    	<link>https://raw.githubusercontent.com/ketusofx/m3u/master/ZHERONEW.m3u</link>
+    	<thumbnail></thumbnail>
+    	<externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/ZHERONEW.m3u</externallink>
     </item>
     <item>
       <title>enlaces de tv</title>
