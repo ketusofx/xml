@@ -79,14 +79,21 @@
   	<thumbnail>https://storage.googleapis.com/company-display/total-play/logo_big_retina.png</thumbnail>
   	<externallink>https://dl.dropboxusercontent.com/s/qtqb0hvpqxfn5ll/TOTALLPLAYY.html</externallink>
   </item>
-  <item>
+  
   	<item>
   		<title>VOD</title>
   		<link>https://raw.githubusercontent.com/ketusofx/m3u/master/vod.m3u</link>
   		<thumbnail></thumbnail>
   		<externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/vod.m3u</externallink>
   	</item>
-  </item>
+  	
+  	<item>
+  	<title>Play HD Latino</title>
+  	<link>http://lista.playhdlatino.com</link>
+  	<thumbnail></thumbnail>
+  	<externallink>http://lista.playhdlatino.com</externallink>
+  	</item>
+  
   	<item>
   		<title>VAUGAN</title>
   		<link>https://raw.githubusercontent.com/ketusofx/m3u/master/vaugan.m3u</link>
