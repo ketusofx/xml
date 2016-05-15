@@ -74,6 +74,12 @@
   		<externallink>http://tv.tecnotv.net/hd.m3u</externallink>
   	</item>
   <item>
+  	<title>lista de eduardo(remota)</title>
+  	<link>https://dl.dropboxusercontent.com/s/qtqb0hvpqxfn5ll/TOTALLPLAYY.html</link>
+  	<thumbnail>https://storage.googleapis.com/company-display/total-play/logo_big_retina.png</thumbnail>
+  	<externallink>https://dl.dropboxusercontent.com/s/qtqb0hvpqxfn5ll/TOTALLPLAYY.html</externallink>
+  </item>
+  <item>
   	<item>
   		<title>VOD</title>
   		<link>https://raw.githubusercontent.com/ketusofx/m3u/master/vod.m3u</link>
