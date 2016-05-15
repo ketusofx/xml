@@ -147,6 +147,12 @@
       <thumbnail></thumbnail>
       <externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/VIDEO%20ON%20DEMAN.m3u</externallink>
     </item>
+   <item>
+   	<title>prueba</title>
+   	<link>https://raw.githubusercontent.com/xavi220/MyStreamVOD/master/usr/lib/enigma2/python/Plugins/Extensions/MyStreamVOD/m3uDir/iptv2.m3u</link>
+   	<thumbnail></thumbnail>
+   	<externallink>https://raw.githubusercontent.com/xavi220/MyStreamVOD/master/usr/lib/enigma2/python/Plugins/Extensions/MyStreamVOD/m3uDir/iptv2.m3u</externallink>
+   </item>
   </items>
 </channel>
 <channel>
