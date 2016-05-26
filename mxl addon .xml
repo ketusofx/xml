@@ -2,25 +2,16 @@
  
 <channels>
  <channels_info>
-      <title>[COLOR green] MXL[/COLOR][COLOR white] IPTV [/COLOR] [COLOR red]ADDON[/COLOR]</title>
+      <title>[COLOR green] MOVIES[/COLOR][COLOR white] DE TODOS LOS [/COLOR] [COLOR red]ADDONS[/COLOR]</title>
       <genre>IPTV</genre>
-      <description>Lista de canales MXL</description>
-      <thumbnail>https://k60.kn3.net/A/5/7/2/E/0/25D.png</thumbnail>
+      <description>mix de peliculas</description>
+      <thumbnail></thumbnail>
       <fanart>http://kodi.tv/wp-content/uploads/banner-sbs-11-600x336.png</fanart>
-      <date>29.06.2015</date>
-      <credits>Gracias a MXL IPTV</credits>
+      <date></date>
+      <credits></credits>
  </channels_info>
 <channels>
 
- 
- <channel>
-  <name>                       [COLOR green] MXL[/COLOR][COLOR white] IPTV [/COLOR][COLOR red]ADDON[/COLOR]</name>
-  <thumbnail>https://k60.kn3.net/A/5/7/2/E/0/25D.png</thumbnail>
-  <fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
-  <link>http://ignoreme</link>
-  <externallink>http://pastebin.com</externallink>
- </channel>
-</channels>
  
    
  
@@ -47,14 +38,54 @@
 <channels>
  
  <channel>
-  <name>[COLOR yellow][COLOR  lime]&#8226;  [/COLOR] Peliculas [/COLOR]</name>
+  <name>[COLOR yellow][COLOR  lime]&#8226;  [/COLOR] PELICULAS DE MXL [/COLOR]</name>
   <thumbnail>http://www.lamasperrona.com.mx/perrona/system/storage/serve/11180/sabes-cuando-es-la-calidad-de-una-pelicula-en-internet-mejor-o-peor-2.jpg</thumbnail>
   <fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
   <link>http://ignoreme</link>
   <externallink>http://pastebin.com/raw/k9kaCCgh</externallink>
  </channel>
 </channels>
- 
+
+<channels>
+ <channel>
+<name>[COLOR green]•[/COLOR][COLOR orange]PELICULAS PROJECTV[/COLOR]</name>
+<link>http://Ignoreme</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/PeliculasNew/peliculas.xml</externallink>
+<thumbnail>http://projectv.pw/ProjecTV/LOGOS%20ADDON/Peliculas.png</thumbnail>
+<fanart>http://projectv.pw/ProjecTV/LOGOS%20ADDON/Fondo%20Ppal.jpg</fanart>
+</channel>
+</channels>
+
+<channels>
+ <channel>
+<name>[COLOR green]•[/COLOR][COLOR blue]PELICULAS CUBA TV[/COLOR]</name>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>https://3.bp.blogspot.com/-aMKDSRCRUGs/VwwFFP9WwrI/AAAAAAAACBY/a_AXXlU5b48qohrAAnVuGf2prOrJKYXcA/s1600/CUBA-TV</thumbnail>
+<fanart>https://3.bp.blogspot.com/-Km4MPMBPMrY/VwwyHzI9tMI/AAAAAAAACD8/j3xSWiMMAQw6oW5G0kB18HhpYkQFWpWkA/s1600/fanart.jpg</fanart>
+</channel>
+</channels>
+
+<channels>
+ <channel>
+<name>[COLOR green]•[/COLOR][COLOR red]PELICULAS DEADPOOL[/COLOR]</name>
+<link>http://deadpool.hostingvm.com/deadpool/list.xml</link>
+<externallink>http://deadpool.hostingvm.com/deadpool/peliculas/peliculas.xml</externallink>
+<thumbnail>http://i.imgur.com/koqY6x8.png</thumbnail>
+<fanart>http://i.imgur.com/m6B40SU.png</fanart>
+</channel>
+</channels>
+
+
+<channels>
+ <channel>
+<name>[COLOR green]•[/COLOR][COLOR gold]PELICULAS DE FER[/COLOR]</name>
+<link></link>
+<externallink>https://raw.githubusercontent.com/ketusofx/xml/master/main%20de%20fer.xml</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg</thumbnail>
+<fanart>http://jeffery10.deviantart.com/art/Suicide-Squad-Movie-Fanart-Wallpaper-534057084</fanart>
+</channel>
+</channels>
 
 
 <channels>
