@@ -2,77 +2,10 @@
 
 
 
-<item>
-    <title>[COLOR yellow]                          MAIL/[COLOR orange]cubanoloco85@gmail.com[/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink></externallink>
-    <thumbnail>https://1.bp.blogspot.com/-CGWB8rGAct0/VwwQipUN7tI/AAAAAAAACCg/wjGcxzBA4pIDrb-nl9H5dQ7NhVXPiNn6g/s1600/GMAIL.png</thumbnail>
-    </item>
-
- <item>
-    <title>[COLOR lime]                                      [B]   CUBA-TV [/B]                              [/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink></externallink>
-<thumbnail>https://3.bp.blogspot.com/-aMKDSRCRUGs/VwwFFP9WwrI/AAAAAAAACBY/a_AXXlU5b48qohrAAnVuGf2prOrJKYXcA/s1600/CUBA-TV.png</thumbnail>
-<fanart>https://3.bp.blogspot.com/-Km4MPMBPMrY/VwwyHzI9tMI/AAAAAAAACD8/j3xSWiMMAQw6oW5G0kB18HhpYkQFWpWkA/s1600/fanart.jpg</fanart>
-    </item>
-
- 
- <item>
-    <title> [COLOR yellow][B][I]                     ACTUALIZACION**22/05/2016               [/B][/I][/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink></externallink>
-<thumbnail>https://4.bp.blogspot.com/-l58fsgeXD4Q/VwwFMbwguaI/AAAAAAAACCE/XwpMDSTfsK0ZMxdp4LsDlo3c4y2A69igw/s1600/UPDATE.png</thumbnail>
- </item>
-        
-
-<item>
-    <title>[COLOR white]        !!!CUBA Y NUESTROS [/COLOR][COLOR red]MEJORES RECUERDOS¡¡¡[/COLOR][COLOR blue]CUBA-TV[/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink></externallink>
-    <thumbnail>https://3.bp.blogspot.com/-aMKDSRCRUGs/VwwFFP9WwrI/AAAAAAAACBY/a_AXXlU5b48qohrAAnVuGf2prOrJKYXcA/s1600/CUBA-TV.png</thumbnail>
-    </item>
-    
-    
-<item>
-    <title>[COLOR white]Soporte en facebook***[/COLOR][COLOR red]https://www.facebook.com/groups/addoncubatv***[/COLOR][COLOR blue]CUBA-TV[/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink></externallink>
-    <thumbnail>https://2.bp.blogspot.com/-I-lcmroneBA/VwwQi4tD33I/AAAAAAAACCk/z797bV1Kr8osoY5M4_rqPsM9bD0LrmgCg/s1600/FACEBOOK.png</thumbnail>
-    </item>
 
 
 
 
-<item>
-        <title>[COLOR red]NUEVA ACTUALIZACION /[COLOR yellow]NUEVO LINK 29/02/2016 [/COLOR]</title>
-        <link></link>
-        <externallink></externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-        </linkhttp:></item>
-
-
-
-
-
-<item>
-        <title>[COLOR lime] • [/COLOR][COLOR red]JalexFILMS[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://jalexfull.blogspot.mx/2016/04/jalexfilms-links.html</externallink>
-<thumbnail>https://4.bp.blogspot.com/-8OPkccz4kGY/VwwFI_VdvXI/AAAAAAAACBo/ipZKT8oHeFQynDaAwF8KwO9-jUh-6kZJQ/s1600/JALEXFILMS.png</thumbnail>
-<fanart>https://1.bp.blogspot.com/-2DGoG6kTo5M/VwGd7BQj9eI/AAAAAAAACAs/WziwQIZjt_0vMFsK6qtB4Ej4_Qc0a3N8Q/s1600/fanart%2Bjalexfilms.jpg</fanart>
-        </item>
-
-
-
-<item>
-        <title>[COLOR lime] • [/COLOR][COLOR orange][B]JUEGO DE TRONOS *TEMPORADA 6*[/B][/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://jalexfull.blogspot.mx/2016/05/juego-de-tronos.html</externallink>
-<thumbnail>http://www.hbo.com/custom-assets/img/series/game-of-thrones/season-6-tease.jpg</thumbnail>
-<fanart>http://www.lacasadeel.net/wp-content/uploads/2016/03/game-of-thrones-poster-season-6.jpg</fanart>
-        </item>
 
 
 <item>
@@ -83,25 +16,6 @@
 <fanart>https://1.bp.blogspot.com/-2DGoG6kTo5M/VwGd7BQj9eI/AAAAAAAACAs/WziwQIZjt_0vMFsK6qtB4Ej4_Qc0a3N8Q/s1600/fanart%2Bjalexfilms.jpg</fanart>
         </item>
 
-<item>\
-<title>[COLOR lime] • [/COLOR][COLOR red]TODOS LOS CANALES DE /[COLOR blue]CINESTRENOSTV/[/COLOR][COLOR white]SPORTSDEVIL[/COLOR]</title>\
-<thumbnail>https://3.bp.blogspot.com/-k_3mCxj3ZNA/Vyz8d9adkwI/AAAAAAAACH0/z9Nrvs9kzKIQnHgEE8jfub0j_1AGdQj2gCLcB/s1600/SportsDevil.png</thumbnail>\
-<fanart></fanart>\
-<link>$doregex[makelist]</link>\
-<regex>\
-<name>makelist</name>\
-<listrepeat><![CDATA[\
-<title>[makelist.param2]</title>\
-<sportsdevil>http://cinestrenostv.tv[makelist.param1]</sportsdevil>\
-<referer></referer>\
-<thumbnail>[makelist.param3]</thumbnail>\
-]]></listrepeat>\
-<expres>a href="(.*)".*title="(.*?)".*?src="(.*?)"</expres>\
-<page>http://cinestrenostv.tv/</page>\
-<referer></referer>\
-<cookieJar></cookieJar>\
-</regex>\
-</item>\
 
 <item>
         <title>[COLOR lime] • [/COLOR][COLOR red]PELICULAS CUBANAS[/COLOR]</title>
@@ -122,65 +36,6 @@
         </item>
 
 
-<item>
-        <title>[COLOR lime] • [/COLOR][COLOR red]MUSICA/[/COLOR][COLOR blue]CONCIERTOS[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://jalexfull.blogspot.mx/2016/04/musica-conciertos-links.html</externallink>
-<thumbnail>https://4.bp.blogspot.com/-1XUoX7k_6DE/VwwFJhWyn5I/AAAAAAAACBw/FG_0xvgupc4_v9lJABEaZ4Ik-SEkHZI4A/s1600/MUSICA.png</thumbnail>
-<fanart>http://imaginee.es/wp-content/uploads/2014/12/Letras-JAVI-20.jpg</fanart>
-        </item>
-        
-        
-<item>
-        <title>[COLOR lime] • [/COLOR][COLOR red]MUSICA/[COLOR blue]HITS[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://jalexfull.blogspot.mx/2016/04/musica.html</externallink>
-<thumbnail>https://3.bp.blogspot.com/-ot-H1oRyngo/Vwwfie18PAI/AAAAAAAACDE/or4pnqnpPwkcz5l8NyltvEJPMIepJkLVw/s1600/MUSICA%2BHITS.png</thumbnail>
-<fanart>http://imaginee.es/wp-content/uploads/2014/12/Letras-JAVI-20.jpg</fanart>
-        </item>
-
-<item>
-        <title>[COLOR lime] • [/COLOR][COLOR red]DEPORTES[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://jalexfull.blogspot.mx/2016/04/deportes.html</externallink>
-<thumbnail>https://4.bp.blogspot.com/-narRVX5g7fM/VwwFFNjRs1I/AAAAAAAACBU/MPzPFK1myoE27DAi5a90aGpbWGhVMhpLQ/s1600/DEPORTES.png</thumbnail>
-<fanart></fanart>
-        </item>
-
-<item>
-        <title>[COLOR lime] • [/COLOR][COLOR red]DOCUMENTALES[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://jalexfull.blogspot.mx/2016/04/documentales.html</externallink>
-<thumbnail>https://2.bp.blogspot.com/-3fbpa8ZqmYI/VwwFHNeOiZI/AAAAAAAACBc/tUsNgypSp94ATXfmghKdHhvCdYtlk0JuA/s1600/DOCUMENTALES.png</thumbnail>
-<fanart></fanart>
-        </item>
-
-
-
-<item>
-        <title>[COLOR lime] • [/COLOR][COLOR red]TV-CUBANA[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://jalexfull.blogspot.mx/2016/04/tv-cubana.html</externallink>
-<thumbnail>https://2.bp.blogspot.com/-nitiVSaCrnw/VwwFL5QzwYI/AAAAAAAACCA/YEIIt9RXz6sKWjxQZ72bc-lfhGDP0CrKg/s1600/TV%2BCUBANA.png</thumbnail>
-<fanart></fanart>
-        </item>
-
-<item>
-        <title>[COLOR lime] • [/COLOR][COLOR red]SERIES/[/COLOR][COLOR blue]NOVELAS CUBANAS[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://jalexfull.blogspot.mx/2016/04/seriesnovelas-cubanas.html</externallink>
-<thumbnail>https://2.bp.blogspot.com/-nitiVSaCrnw/VwwFL5QzwYI/AAAAAAAACCA/YEIIt9RXz6sKWjxQZ72bc-lfhGDP0CrKg/s1600/TV%2BCUBANA.png</thumbnail>
-<fanart></fanart>
-        </item>
-
-
-<item>
-        <title>[COLOR lime] • [/COLOR][COLOR red]HUMOR/[/COLOR][COLOR blue]CUBANO[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://jalexfull.blogspot.mx/2016/04/humor-cubano.html</externallink>
-<thumbnail>https://4.bp.blogspot.com/-N-yyC2j6RZY/VxB3t3R-mWI/AAAAAAAACEc/l2WR1wn0IfAyPBi1tz3BwcoR76C7-dG5QCLcB/s1600/HUMOR%2BCUBANO.png</thumbnail>
-<fanart></fanart>
-        </item>
 
 <item>
         <title>[COLOR lime] • [/COLOR][COLOR red]INFANTILES[/COLOR]</title>
@@ -189,57 +44,4 @@
 <thumbnail>https://4.bp.blogspot.com/-Nogm_PQ3T04/VwwFH68AnLI/AAAAAAAACBg/sQz1hbX1yi4LhGav1iNA6viCixufkuW5Q/s1600/INFANTILES.png</thumbnail>
 <fanart></fanart>
         </item>
-<item>
-        <title>[COLOR lime] • [/COLOR][COLOR red]INTERNACIONALES[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>https://paste.ee/r/fbEZJ</externallink>
-<thumbnail>https://2.bp.blogspot.com/-IAtf_Ezcxw4/VwwFIEOWvDI/AAAAAAAACBk/yX5mX7mj_eonHhcWn1UIGkyiqqwBSeSmg/s1600/INTERNACIONALES.png</thumbnail>
-<fanart>http://pvftele2015.net/wp-content/uploads/2015/09/dg2dfo.png</fanart>
-        </item>
 
-
-
-<item>
-        <title>[COLOR lime] • [/COLOR][COLOR red]TOTAL[/COLOR][COLOR blue]P[/COLOR][COLOR lime]L[/COLOR][COLOR orange]A[/COLOR][COLOR magenta]Y[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://jalexfull.blogspot.mx/2016/04/total-play-links.html</externallink>
-<thumbnail>https://2.bp.blogspot.com/-GaRAFJ489CQ/VwwFLR2lpnI/AAAAAAAACB4/Ifixy2usJFUlqS506nnihDLknsA_xClTw/s1600/TOTAL%2BPLAY.png</thumbnail>
-<fanart>https://i.ytimg.com/vi/yYTiOUagQxg/maxresdefault.jpg</fanart>
-        </item>
-
-<item>
-        <title>[COLOR lime] • [/COLOR][COLOR red]RADIO CUBANA[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://jalexfull.blogspot.mx/2016/04/radio-cubana-links.html</externallink>
-<thumbnail>https://1.bp.blogspot.com/-L-zsAiHHPdg/VwwFLZNR21I/AAAAAAAACB8/fVIaeHfqm8o2NHNpvEwW-AL4pj9npSaJQ/s1600/RADIO.png</thumbnail>
-<fanart>http://imaginee.es/wp-content/uploads/2014/12/Letras-JAVI-20.jpg</fanart>
-        
-        </item>
-
-
-<item>
-        <title>[COLOR lime] • [/COLOR][COLOR blue]LISTAS POPULARES[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://jalexfull.blogspot.mx/2016/04/listas-populares-links.html</externallink>
-<thumbnail>https://3.bp.blogspot.com/-Ixk1vBu2z70/VwwFJJlHVEI/AAAAAAAACBs/ZiQf0ri0lQcZQsuWiZOkEKzlPOf8l2Emg/s1600/LISTAS%2BAMIGAS.png</thumbnail>
-<fanart>http://imaginee.es/wp-content/uploads/2014/12/Letras-JAVI-20.jpg</fanart>
-        </item>
-
-
-
-        
-        
-<item>
-    <title>[COLOR white]Vicitanos en el grupo de telegram***[/COLOR][COLOR red]https://telegram.me/[/COLOR][COLOR blue]cubatv[/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink></externallink>
-    <thumbnail>https://1.bp.blogspot.com/-K9R4PLvgahs/VwwQjp0VAeI/AAAAAAAACCs/hg94tKoE1fY8MBxCm5pbvcqUpN8tykQuQ/s1600/TELEGRAM.png</thumbnail>
-    </item>
-    
-    
-<item>
-    <title>[COLOR white]!!!Si te gusta la lista puedes [/COLOR][COLOR red]conciderar hacer una donacion en PAYPAL [/COLOR][COLOR blue]cubanoloco85@gmail.com *** para seguir actualizando el contenido¡¡¡[/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink></externallink>
-    <thumbnail>https://1.bp.blogspot.com/-zSoTeHTzafw/VwwQi2eFwxI/AAAAAAAACCo/1A4dj8SH5Fs9K6GYyj6ALfq5Jhn0J9tAA/s1600/PAYPAL.png</thumbnail>
-    </item>
