@@ -18,6 +18,12 @@
   <thumbnail></thumbnail>
   <fanart></fanart>
   <items>
+  <item>
+  	<title>Peliculas Tv Actualidad</title>
+  	<link>https://raw.githubusercontent.com/ketusofx/m3u/master/Peliculas%20TV%20Actualidad.m3u</link>
+  	<thumbnail></thumbnail>
+  	<externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/Peliculas%20TV%20Actualidad.m3u</externallink>
+  </item>	
     <item>
       <title>listado de peliculas</title>
       <link>https://raw.githubusercontent.com/ketusofx/m3u/master/Listado_Peliculas.m3u</link>
@@ -86,6 +92,18 @@
   		<thumbnail></thumbnail>
   		<externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/vod.m3u</externallink>
   	</item>
+  	<item>
+  		<title>USA hoki</title>
+  		<link>https://raw.githubusercontent.com/ketusofx/m3u/master/ip%20hoki.m3u</link>
+  		<thumbnail></thumbnail>
+  		<externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/ip%20hoki.m3u</externallink>
+  	</item>
+  	<item>
+  		<title>lista USA</title>
+  		<link>https://raw.githubusercontent.com/ketusofx/m3u/master/lista%20USA.m3u</link>
+  		<thumbnail></thumbnail>
+  		<externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/lista%20USA.m3u</externallink>
+  	</item>
   	
   <item>
   	<title>Xavi list</title>
@@ -112,6 +130,12 @@
   	<link>https://raw.githubusercontent.com/MsotoM/ip/master/tp.m3u</link>
   	<thumbnail></thumbnail>
   	<externallink>https://raw.githubusercontent.com/MsotoM/ip/master/tp.m3u</externallink>
+  </item>
+  <item>
+  	<title>iptv monster</title>
+  	<link>https://raw.githubusercontent.com/ketusofx/m3u/master/tv_channels_iptvmonster.m3u</link>
+  	<thumbnail></thumbnail>
+  	<externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/tv_channels_iptvmonster.m3u</externallink>
   </item>
   
   	<item>
@@ -194,6 +218,13 @@
 	<thumbnail></thumbnail>
 	<externallink>https://dl.dropbox.com/s/bm76hcp8wrt3erq/byNanoSeries.m3u</externallink>
 	</item>
+	
+	<item>
+		<title>mazinger Z</title>
+		<link>https://raw.githubusercontent.com/ketusofx/m3u/master/MAZINGER%20Z.m3u</link>
+		<thumbnail></thumbnail>
+		<externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/MAZINGER%20Z.m3u</externallink>
+	</item>
 	</items>
 </channel>
 
@@ -213,6 +244,12 @@
 		<link>https://raw.githubusercontent.com/ketusofx/m3u/master/new%201.m3u</link>
 		<thumbnail>http://i.imgur.com/Yu9jUfF.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/new%201.m3u</externallink>
+		</item>
+		<item>
+			<title>super mega coleccion</title>
+			<link>https://raw.githubusercontent.com/ketusofx/m3u/master/SUPER%2CMEGA%2CCOLECCION%2CXXX.m3u</link>
+			<thumbnail></thumbnail>
+			<externallink>https://raw.githubusercontent.com/ketusofx/m3u/master/SUPER%2CMEGA%2CCOLECCION%2CXXX.m3u</externallink>
 		</item>
 	</items>
 </channel>
